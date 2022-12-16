@@ -13,6 +13,7 @@
 		132FDA5A294C33B800BF74EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 132FDA58294C33B800BF74EB /* Main.storyboard */; };
 		132FDA5C294C33BB00BF74EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 132FDA5B294C33BB00BF74EB /* Assets.xcassets */; };
 		132FDA5F294C33BB00BF74EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 132FDA5D294C33BB00BF74EB /* LaunchScreen.storyboard */; };
+		132FDA67294C33FD00BF74EB /* TwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 132FDA66294C33FD00BF74EB /* TwoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		132FDA5B294C33BB00BF74EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		132FDA5E294C33BB00BF74EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		132FDA60294C33BB00BF74EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		132FDA66294C33FD00BF74EB /* TwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				132FDA52294C33B800BF74EB /* AppDelegate.swift */,
 				132FDA54294C33B800BF74EB /* SceneDelegate.swift */,
 				132FDA56294C33B800BF74EB /* ViewController.swift */,
+				132FDA66294C33FD00BF74EB /* TwoViewController.swift */,
 				132FDA58294C33B800BF74EB /* Main.storyboard */,
 				132FDA5B294C33BB00BF74EB /* Assets.xcassets */,
 				132FDA5D294C33BB00BF74EB /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				132FDA57294C33B800BF74EB /* ViewController.swift in Sources */,
 				132FDA53294C33B800BF74EB /* AppDelegate.swift in Sources */,
 				132FDA55294C33B800BF74EB /* SceneDelegate.swift in Sources */,
+				132FDA67294C33FD00BF74EB /* TwoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
