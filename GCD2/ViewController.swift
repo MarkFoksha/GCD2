@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         }
     }
     
+    
+    
     func afterBlock(seconds: Int, queue: DispatchQueue = DispatchQueue.global(), completion: @escaping() -> ()) {
         queue.asyncAfter(deadline: .now() + .seconds(seconds)) {
             completion()
